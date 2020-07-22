@@ -1,0 +1,1562 @@
+[
+ {
+   "FIELD1": 0,
+   "name": "Arabic And Islamic Training Center",
+   "sub_type": "Standard",
+   "management": "Faith Based",
+   "ward_name": "Awori Oniwaya",
+   "lga_name": "Agege",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.316265929896128 6.620998127249273)"
+ },
+ {
+   "FIELD1": 1,
+   "name": "Art and Craft Centre Bale Adeyemo Street",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Aiyetoro",
+   "lga_name": "Ajeromi/Ifelodun",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.343597879785743 6.456789684706473)"
+ },
+ {
+   "FIELD1": 2,
+   "name": "Home Economics Centre",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Amukoko",
+   "lga_name": "Ajeromi/Ifelodun",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.340561000000037 6.464956000000029)"
+ },
+ {
+   "FIELD1": 3,
+   "name": "Anchor University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ayobo",
+   "lga_name": "Alimosho",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.24253 6.60076)"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Alimosho Resource Centre",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Oki",
+   "lga_name": "Alimosho",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.296800000000076 6.615938000000028)"
+ },
+ {
+   "FIELD1": 5,
+   "name": "Tensrings Music Institute Festac Town",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ifelodun",
+   "lga_name": "Amuwo Odofin",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.2928 6.47307)"
+ },
+ {
+   "FIELD1": 6,
+   "name": "City College Of Technology And Management",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ajara Vetho",
+   "lga_name": "Badagry",
+   "state_name": "Lagos",
+   "geometry": "POINT (2.94004 6.44477)"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Steduron College Of Health Technology",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ajara Vetho",
+   "lga_name": "Badagry",
+   "state_name": "Lagos",
+   "geometry": "POINT (2.94113 6.44326)"
+ },
+ {
+   "FIELD1": 8,
+   "name": "Ivie Technical And Technical College",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ajara Vetho",
+   "lga_name": "Badagry",
+   "state_name": "Lagos",
+   "geometry": "POINT (2.93513 6.44514)"
+ },
+ {
+   "FIELD1": 9,
+   "name": "The Certified Institute Of Shipping Of Nigeria",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Araromi-Ale",
+   "lga_name": "Badagry",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.04682 6.48327)"
+ },
+ {
+   "FIELD1": 10,
+   "name": "Lasu Foundation Badagry",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Awhanjigoh",
+   "lga_name": "Badagry",
+   "state_name": "Lagos",
+   "geometry": "POINT (2.90494 6.41144)"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Lagos State University Epe",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Mayunre-Oriba",
+   "lga_name": "Epe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.999895901409186 6.585401178114787)"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Yaba College Of Technology Epe Campus Odoragushin",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Odoragunsin",
+   "lga_name": "Epe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.985807789643043 6.661980659390698)"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Agriculture Youth Empowerment School",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Odoragunsin",
+   "lga_name": "Epe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.95971 6.62854)"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Genesis Centre School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Addo/Okeira",
+   "lga_name": "Eti Osa",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.57944 6.48791)"
+ },
+ {
+   "FIELD1": 15,
+   "name": "Moder Montessori International London",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ajah",
+   "lga_name": "Eti Osa",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.55608 6.4602)"
+ },
+ {
+   "FIELD1": 16,
+   "name": "Lagos Business School Pan Atlantic University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Sangotedo",
+   "lga_name": "Eti Osa",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.60272 6.47419)"
+ },
+ {
+   "FIELD1": 17,
+   "name": "Nigerian Institute For Oceanography And Marine Research",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Tarkwa Bay",
+   "lga_name": "Eti Osa",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.41101 6.42237)"
+ },
+ {
+   "FIELD1": 18,
+   "name": "National Open University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Victoria Island",
+   "lga_name": "Eti Osa",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.40899 6.434)"
+ },
+ {
+   "FIELD1": 19,
+   "name": "Orimedu Skill Acquisition Center",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Orimedu 1",
+   "lga_name": "Ibeju Lekki",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.90907 6.43958)"
+ },
+ {
+   "FIELD1": 20,
+   "name": "Pan Atlantic University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Orimedu 2",
+   "lga_name": "Ibeju Lekki",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.85104 6.47893)"
+ },
+ {
+   "FIELD1": 21,
+   "name": "Grajos Institute Of Mass Communication",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Abule Egba/Ilupeju",
+   "lga_name": "Ifako/Ijaye",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.30212 6.65449)"
+ },
+ {
+   "FIELD1": 22,
+   "name": "Christ Gospel Inter College Of Theology",
+   "sub_type": "Standard",
+   "management": "Faith Based",
+   "ward_name": "Ijaiye Gbirinmi",
+   "lga_name": "Ifako/Ijaye",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.29653 6.67398)"
+ },
+ {
+   "FIELD1": 23,
+   "name": "Dof Institute Of Catering And Hotel Management",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ijaiye Ojokoro",
+   "lga_name": "Ifako/Ijaye",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.28552 6.67168)"
+ },
+ {
+   "FIELD1": 24,
+   "name": "Keke Senior High School",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ijaiye/Ifako",
+   "lga_name": "Ifako/Ijaye",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.330947000000037 6.631363000000022)"
+ },
+ {
+   "FIELD1": 25,
+   "name": "Community Vacational Central Ikeja",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "G R A",
+   "lga_name": "Ikeja",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.34383633817693 6.584723938267847)"
+ },
+ {
+   "FIELD1": 26,
+   "name": "Lagos State University College Of Medicine",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "G R A",
+   "lga_name": "Ikeja",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.34193 6.58911)"
+ },
+ {
+   "FIELD1": 27,
+   "name": "Business School Netherland",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "G R A",
+   "lga_name": "Ikeja",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.358806567400893 6.572857094821821)"
+ },
+ {
+   "FIELD1": 28,
+   "name": "Starland Vocational School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ogba/Oluwole",
+   "lga_name": "Ikeja",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.34318 6.62472)"
+ },
+ {
+   "FIELD1": 29,
+   "name": "Nigeria Customs Service Training College Ikeja",
+   "sub_type": "Adult Education",
+   "management": "Public Private",
+   "ward_name": "Orile Ikeja",
+   "lga_name": "Ikeja",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.3472 6.5949)"
+ },
+ {
+   "FIELD1": 30,
+   "name": "Success Academy",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Abosan",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.50328 6.56339)"
+ },
+ {
+   "FIELD1": 31,
+   "name": "Caleb University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Isiu",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.64175 6.66788)"
+ },
+ {
+   "FIELD1": 32,
+   "name": "Lagos State Polytechnic",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Itunpate/Itumaja",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.52138 6.6452)"
+ },
+ {
+   "FIELD1": 33,
+   "name": "Valem School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Maja",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.65728 6.59106)"
+ },
+ {
+   "FIELD1": 34,
+   "name": "Surepass College",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Majidun",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.476132374888643 6.618954132840483)"
+ },
+ {
+   "FIELD1": 35,
+   "name": "Mimshaack School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Owutu",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.48054 6.63817)"
+ },
+ {
+   "FIELD1": 36,
+   "name": "Katrino Nursery And Primary School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Owutu",
+   "lga_name": "Ikorodu",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.48151 6.63121)"
+ },
+ {
+   "FIELD1": 37,
+   "name": "Lagos University Anthony Campus",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Anthony",
+   "lga_name": "Kosofe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.36694 6.56338)"
+ },
+ {
+   "FIELD1": 38,
+   "name": "Tombey Foundational School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Bamgbe/Elebiju",
+   "lga_name": "Kosofe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.38897 6.59237)"
+ },
+ {
+   "FIELD1": 39,
+   "name": "Government Technical College Ikorodu",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Erukan/Orishigun",
+   "lga_name": "Kosofe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.393564281248781 6.606389642547226)"
+ },
+ {
+   "FIELD1": 40,
+   "name": "Lagos Cambridge School",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Shangisha/Magodo",
+   "lga_name": "Kosofe",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.372523936532415 6.61755912675243)"
+ },
+ {
+   "FIELD1": 41,
+   "name": "Lagos State University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Igbo-Elerin",
+   "lga_name": "Ojo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.20403 6.46195)"
+ },
+ {
+   "FIELD1": 42,
+   "name": "Lagos University Of Medicals And Health Sciences",
+   "sub_type": "Adult Education",
+   "management": "Public Private",
+   "ward_name": "Ijanikin",
+   "lga_name": "Ojo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.12338 6.49198)"
+ },
+ {
+   "FIELD1": 43,
+   "name": "Harmony Study Center",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ilogbo- Elegba",
+   "lga_name": "Ojo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.15799 6.46331)"
+ },
+ {
+   "FIELD1": 44,
+   "name": "National Postgraduate Medical College",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Oto-Awori",
+   "lga_name": "Ojo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.14513 6.49391)"
+ },
+ {
+   "FIELD1": 45,
+   "name": "Adeniran Ogunsanya College Of Education Lagos Badagry Express",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Oto-Awori",
+   "lga_name": "Ojo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.114631167766809 6.499024364082248)"
+ },
+ {
+   "FIELD1": 46,
+   "name": "Ronik Polytechnic",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ailegun",
+   "lga_name": "Oshodi/Isolo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.295070291579333 6.537251788170151)"
+ },
+ {
+   "FIELD1": 47,
+   "name": "Lagos State Polytechnic",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Ilasamaja",
+   "lga_name": "Oshodi/Isolo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.334004597884679 6.53055105120966)"
+ },
+ {
+   "FIELD1": 48,
+   "name": "Lagos State University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Okota",
+   "lga_name": "Oshodi/Isolo",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.31899 6.51282)"
+ },
+ {
+   "FIELD1": 49,
+   "name": "Grace Polytechnic",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Shitta Bank Olemoh",
+   "lga_name": "Surulere",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.355311698009966 6.50130450898627)"
+ },
+ {
+   "FIELD1": 50,
+   "name": "Federal Technical School Akoka",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Abule Oja",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.385828979820072 6.523773577345318)"
+ },
+ {
+   "FIELD1": 51,
+   "name": "Federal College Of Education Akoka",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Abule Oja",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.384987175481132 6.521907148206652)"
+ },
+ {
+   "FIELD1": 52,
+   "name": "University Of Lagos",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Abule Oja",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.385266823587289 6.517367301951594)"
+ },
+ {
+   "FIELD1": 53,
+   "name": "St Augustine College Of Education",
+   "sub_type": "Standard",
+   "management": "Faith Based",
+   "ward_name": "Abule Oja",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.387125478406827 6.523832448952197)"
+ },
+ {
+   "FIELD1": 54,
+   "name": "Lagos State College Of Health Technology Yaba",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Harvey",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.37256 6.50927)"
+ },
+ {
+   "FIELD1": 55,
+   "name": "Building Craft Training School",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Harvey",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.375280790357401 6.510811314636629)"
+ },
+ {
+   "FIELD1": 56,
+   "name": "The London Acedemy",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Harvey",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.376321488027764 6.51438024621691)"
+ },
+ {
+   "FIELD1": 57,
+   "name": "Yaba College Of Technology",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Harvey",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.36966818700004 6.518023329414292)"
+ },
+ {
+   "FIELD1": 58,
+   "name": "Trinity University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Onike/Oyadiran",
+   "lga_name": "Lagos Mainland",
+   "state_name": "Lagos",
+   "geometry": "POINT (3.383802634230786 6.50597737798013)"
+ },
+ {
+   "FIELD1": 0,
+   "name": "Madarasatul Zaharatul Islam",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Rigachikun",
+   "lga_name": "Igabi",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.475042939000048 10.64282835100005)"
+ },
+ {
+   "FIELD1": 1,
+   "name": "National Open University",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Rigachikun",
+   "lga_name": "Igabi",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.467157991444388 10.61210612235705)"
+ },
+ {
+   "FIELD1": 2,
+   "name": "Government Science Secondary School Ngarshang",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Fada",
+   "lga_name": "Jaba",
+   "state_name": "Kaduna",
+   "geometry": "POINT (8.026977181000063 9.45058107400007)"
+ },
+ {
+   "FIELD1": 3,
+   "name": "College Of Education State",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Gidan Waya",
+   "lga_name": "Jema'A",
+   "state_name": "Kaduna",
+   "geometry": "POINT (8.395130840984923 9.479737383138547)"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Kaduna State University Kafanchan Campus",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Kaninkon",
+   "lga_name": "Jema'A",
+   "state_name": "Kaduna",
+   "geometry": "POINT (8.289069766625039 9.572597242974393)"
+ },
+ {
+   "FIELD1": 5,
+   "name": "Kaduna State College Of Education",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Maigizo",
+   "lga_name": "Jema'A",
+   "state_name": "Kaduna",
+   "geometry": "POINT (8.321160840984923 9.597656914996863)"
+ },
+ {
+   "FIELD1": 6,
+   "name": "Kaduna State University School Of Basic Studies",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Dadi Riba",
+   "lga_name": "Kaduna North",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.431792944143102 10.50628976662504)"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Laduna Poly Cabs",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Unguwar Rimi",
+   "lga_name": "Kaduna North",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.442731448594879 10.5208622895798)"
+ },
+ {
+   "FIELD1": 8,
+   "name": "Kaduna Polytechnic c e s",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Barnawa",
+   "lga_name": "Kaduna South",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.423612710768141 10.49113233653314)"
+ },
+ {
+   "FIELD1": 9,
+   "name": "Business Apprentship Trainning Center",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Tudun Wada South",
+   "lga_name": "Kaduna South",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.401453853000021 10.50358415100004)"
+ },
+ {
+   "FIELD1": 10,
+   "name": "Kaduna Polytechnic",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Unguwan Sanusi",
+   "lga_name": "Kaduna South",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.416658458194314 10.52270163571238)"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Batc Mararaban Kajuru",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Kufana",
+   "lga_name": "Kajuru",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.709547560000033 10.33667098000006)"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Oracle University",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Hanwa",
+   "lga_name": "Sabon Gari",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.713347851280235 11.12351747704524)"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Ahmadu Bello University Zaria",
+   "sub_type": "Tertiary",
+   "management": "",
+   "ward_name": "Jama A",
+   "lga_name": "Sabon Gari",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.657397338272848 11.1545131312606)"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Tiny Tots Secondary School Jushi",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Jushi",
+   "lga_name": "Sabon Gari",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.738921730000072 11.10482800100004)"
+ },
+ {
+   "FIELD1": 15,
+   "name": "Government Tech Coll Soba",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Soba",
+   "lga_name": "Soba",
+   "state_name": "Kaduna",
+   "geometry": "POINT (8.065364957000043 10.97255230000007)"
+ },
+ {
+   "FIELD1": 16,
+   "name": "Federal College Of Education",
+   "sub_type": "Tertiary",
+   "management": "Public",
+   "ward_name": "Gyellesu",
+   "lga_name": "Zaria",
+   "state_name": "Kaduna",
+   "geometry": "POINT (7.731239391694163 11.08251051439915)"
+ },
+ {
+   "FIELD1": 0,
+   "name": "College Of Agricultural Sciences Olabisi Onabanjo University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Imala",
+   "lga_name": "Abeokuta North",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.061578333 7.240205)"
+ },
+ {
+   "FIELD1": 1,
+   "name": "Dot Institute Of Technology Wasinmi Ake",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ake 1",
+   "lga_name": "Abeokuta South",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.353321667 7.163056667)"
+ },
+ {
+   "FIELD1": 2,
+   "name": "School Of Nursing",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Oke Ijeun",
+   "lga_name": "Abeokuta South",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.36143541306159 7.146209747259878)"
+ },
+ {
+   "FIELD1": 3,
+   "name": "Convenant University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Iju",
+   "lga_name": "Ado Odo/Ota",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.168058333 6.682355)"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Crawford University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ketu",
+   "lga_name": "Ado Odo/Ota",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.07565 6.59655)"
+ },
+ {
+   "FIELD1": 5,
+   "name": "Institute For Vocational And Innovative Enterprise",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ebute",
+   "lga_name": "Yewa North",
+   "state_name": "Ogun",
+   "geometry": "POINT (2.8680517 6.8968583)"
+ },
+ {
+   "FIELD1": 6,
+   "name": "National Open Unversity",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ilaro 1",
+   "lga_name": "Yewa South",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.003481667 6.885793333)"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Igbajo Polytechnic Ilaro Campus",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ilaro 1",
+   "lga_name": "Yewa South",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.004815 6.887418333)"
+ },
+ {
+   "FIELD1": 8,
+   "name": "Federal Polytechnic",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ilaro 1",
+   "lga_name": "Yewa South",
+   "state_name": "Ogun",
+   "geometry": "POINT (2.9896583 6.88611)"
+ },
+ {
+   "FIELD1": 9,
+   "name": "Ekiti State University Consult",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Owode 2",
+   "lga_name": "Yewa South",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.004741667 6.683458333)"
+ },
+ {
+   "FIELD1": 10,
+   "name": "Royal Health Institute",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Papa",
+   "lga_name": "Ewekoro",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.192225 6.850261667)"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Ifo College Of Management",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ifo 1",
+   "lga_name": "Ifo",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.20283 6.796083333)"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Ogun State College Of Health Technology",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Imushin 1",
+   "lga_name": "Ijebu East",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.9534234 6.8019333)"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Olabisi Onabanjo University Ago Iwoye",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ako Gelete",
+   "lga_name": "Ijebu North",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.879615 6.928425)"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Abraham Adesanya Polytechnic",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Atikori",
+   "lga_name": "Ijebu North",
+   "state_name": "Ogun",
+   "geometry": "POINT (4.0092712 7.0003271)"
+ },
+ {
+   "FIELD1": 15,
+   "name": "National Open University Awa Campus",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Oru/Awa",
+   "lga_name": "Ijebu North",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.93101 6.96081)"
+ },
+ {
+   "FIELD1": 16,
+   "name": "Satos Ornamental School",
+   "sub_type": "Adult Education",
+   "management": "Faith Based NGO Funded",
+   "ward_name": "Isoku/Ososa",
+   "lga_name": "Ijebu Ode",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.968218333 6.826631667)"
+ },
+ {
+   "FIELD1": 17,
+   "name": "Alphagate College Of Health And Technology",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Odo Esa",
+   "lga_name": "Ijebu Ode",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.939295 6.804375)"
+ },
+ {
+   "FIELD1": 18,
+   "name": "Ogun State School Of Nursing",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Odo Esa",
+   "lga_name": "Ijebu Ode",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.9245108 6.8111932)"
+ },
+ {
+   "FIELD1": 19,
+   "name": "Polaris Maritime Academy",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ilisan 1",
+   "lga_name": "Ikenne",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.67261 6.923043333)"
+ },
+ {
+   "FIELD1": 20,
+   "name": "Social Development Institute",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ilisan 1",
+   "lga_name": "Ikenne",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.675806667 6.91143)"
+ },
+ {
+   "FIELD1": 21,
+   "name": "Babcock University School Of Law And Security Studies",
+   "sub_type": "Adult Education",
+   "management": "Faith Based",
+   "ward_name": "Ilisan 1",
+   "lga_name": "Ikenne",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.683431667 6.907363333)"
+ },
+ {
+   "FIELD1": 22,
+   "name": "Babcock University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ilisan 2",
+   "lga_name": "Ikenne",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.71943 6.88871)"
+ },
+ {
+   "FIELD1": 23,
+   "name": "Wecare College Of Health Technology",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Iperu 1",
+   "lga_name": "Ikenne",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.667446667 6.897721667)"
+ },
+ {
+   "FIELD1": 24,
+   "name": "College Of Education Study Center",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Idofa",
+   "lga_name": "Imeko Afon",
+   "state_name": "Ogun",
+   "geometry": "POINT (2.840543333 7.440635)"
+ },
+ {
+   "FIELD1": 25,
+   "name": "Ogun State Polytechnic",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ipokia 1",
+   "lga_name": "Ipokia",
+   "state_name": "Ogun",
+   "geometry": "POINT (2.827703333 6.544576667)"
+ },
+ {
+   "FIELD1": 26,
+   "name": "The Football College Orile Imo",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ajura",
+   "lga_name": "Obafemi Owode",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.562112347000038 6.921314368000026)"
+ },
+ {
+   "FIELD1": 27,
+   "name": "Chrisland University",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Egbeda",
+   "lga_name": "Obafemi Owode",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.396683333 7.140845)"
+ },
+ {
+   "FIELD1": 28,
+   "name": "Federal University Of Agriculture Abeokuta",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Alabata",
+   "lga_name": "Odeda",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.450913333 7.226705)"
+ },
+ {
+   "FIELD1": 29,
+   "name": "Edexcel College Of Health Sciences And Technology",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Osiele",
+   "lga_name": "Odeda",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.4615874 7.1954655)"
+ },
+ {
+   "FIELD1": 30,
+   "name": "Tai Solarin University Of Education Omu Ijebu",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Igbile",
+   "lga_name": "Odogbolu",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.8644081 6.7043577)"
+ },
+ {
+   "FIELD1": 31,
+   "name": "Tai Solarin University Of Education Ijagun",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ogbo",
+   "lga_name": "Odogbolu",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.923946667 6.782813333)"
+ },
+ {
+   "FIELD1": 32,
+   "name": "Gateway Industrial Petro Gas Institute",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Iwopin 1",
+   "lga_name": "Ogun Waterside",
+   "state_name": "Ogun",
+   "geometry": "POINT (4.247216667 6.538553333)"
+ },
+ {
+   "FIELD1": 33,
+   "name": "Gateway Industrial And Petrol Gas Institute",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Iwopin 2",
+   "lga_name": "Ogun Waterside",
+   "state_name": "Ogun",
+   "geometry": "POINT (4.254868333 6.540323333)"
+ },
+ {
+   "FIELD1": 34,
+   "name": "Gateway Polytechnic",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Isara 2",
+   "lga_name": "Remo North",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.670993333 6.987255)"
+ },
+ {
+   "FIELD1": 35,
+   "name": "Redeemer's University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Isote",
+   "lga_name": "Shagamu",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.45885 6.81278)"
+ },
+ {
+   "FIELD1": 36,
+   "name": "Redeemers University Mini Campus",
+   "sub_type": "Adult Education",
+   "management": "Private Faith Based",
+   "ward_name": "Isote",
+   "lga_name": "Shagamu",
+   "state_name": "Ogun",
+   "geometry": "POINT (3.4602102 6.8146888)"
+ },
+ {
+   "FIELD1": 0,
+   "name": "Issele Uku Technical College Issele Uku",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Issele-Uku 1",
+   "lga_name": "Aniocha North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.500436000000036 6.305565000000058)"
+ },
+ {
+   "FIELD1": 1,
+   "name": "Matmo Technical Vocational College",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Onicha-Olona",
+   "lga_name": "Aniocha North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.564490000000035 6.383765000000039)"
+ },
+ {
+   "FIELD1": 2,
+   "name": "Admiralty University",
+   "sub_type": "Tertiary",
+   "management": "Public",
+   "ward_name": "Otulu",
+   "lga_name": "Aniocha South",
+   "state_name": "Delta",
+   "geometry": "POINT (6.57215 6.1641)"
+ },
+ {
+   "FIELD1": 3,
+   "name": "Delta State Polytechnic Ogwashi Uku",
+   "sub_type": "Tertiary",
+   "management": "Public",
+   "ward_name": "Otulu",
+   "lga_name": "Aniocha South",
+   "state_name": "Delta",
+   "geometry": "POINT (6.56943 6.22194)"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Azobemors International Educational Centre",
+   "sub_type": "Aggregate",
+   "management": "Private",
+   "ward_name": "Bomadi",
+   "lga_name": "Bomadi",
+   "state_name": "Delta",
+   "geometry": "POINT (5.93012600000003 5.170780000000036)"
+ },
+ {
+   "FIELD1": 5,
+   "name": "State School of Nursing",
+   "sub_type": "Adult Education",
+   "management": "State Government",
+   "ward_name": "Ovu",
+   "lga_name": "Ethiope East",
+   "state_name": "Delta",
+   "geometry": "POINT (5.991812462820403 5.7441240006338)"
+ },
+ {
+   "FIELD1": 6,
+   "name": "Best Brain University Academy",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Ogharefe 1",
+   "lga_name": "Ethiope West",
+   "state_name": "Delta",
+   "geometry": "POINT (5.68967200000003 5.951058000000046)"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Western Delta University Ogharefe",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ogharefe 1",
+   "lga_name": "Ethiope West",
+   "state_name": "Delta",
+   "geometry": "POINT (5.67096 5.94421)"
+ },
+ {
+   "FIELD1": 8,
+   "name": "College of Education",
+   "sub_type": "Adult Education",
+   "management": "State Government",
+   "ward_name": "Emuhu",
+   "lga_name": "Ika South",
+   "state_name": "Delta",
+   "geometry": "POINT (6.180496991477841 6.255114248806386)"
+ },
+ {
+   "FIELD1": 9,
+   "name": "State School of Nursing",
+   "sub_type": "Adult Education",
+   "management": "State Government",
+   "ward_name": "Emuhu",
+   "lga_name": "Ika South",
+   "state_name": "Delta",
+   "geometry": "POINT (6.183958357117053 6.256647837642676)"
+ },
+ {
+   "FIELD1": 10,
+   "name": "School Of Nursing Alibuba",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Emuhu",
+   "lga_name": "Ika South",
+   "state_name": "Delta",
+   "geometry": "POINT (6.18459 6.25637)"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Institue Of Continuos Education Ozoro",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Ozoro 2",
+   "lga_name": "Isoko North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.226370000000031 5.53875800000003)"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Women Education Centre Ozoro",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ozoro 3",
+   "lga_name": "Isoko North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.238046000000054 5.543933000000038)"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Golden Edu Center",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Ozoro 3",
+   "lga_name": "Isoko North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.229345000000023 5.545473000000072)"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Isoko North Skill Acquisation Center Ozoro",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Ozoro 3",
+   "lga_name": "Isoko North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.238056000000029 5.54390600000005)"
+ },
+ {
+   "FIELD1": 15,
+   "name": "Otagba Ogbe Technical College Kwale",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Ogume 7",
+   "lga_name": "Ndokwa West",
+   "state_name": "Delta",
+   "geometry": "POINT (6.411929000000043 5.684582000000034)"
+ },
+ {
+   "FIELD1": 16,
+   "name": "University Of Asaba Asaba",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Umuodafe",
+   "lga_name": "Oshimili North",
+   "state_name": "Delta",
+   "geometry": "POINT (6.68997 6.20085)"
+ },
+ {
+   "FIELD1": 17,
+   "name": "Federal University Of Petroleum Resources Effurun",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Alaka",
+   "lga_name": "Uvwie",
+   "state_name": "Delta",
+   "geometry": "POINT (5.79591 5.57447)"
+ },
+ {
+   "FIELD1": 18,
+   "name": "The Federal University Of Petroleum Reources Main Campus Ugbomro",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ugbomro",
+   "lga_name": "Uvwie",
+   "state_name": "Delta",
+   "geometry": "POINT (5.84104 5.57186)"
+ },
+ {
+   "FIELD1": 19,
+   "name": "Science Prepartory Centre",
+   "sub_type": "Standard",
+   "management": "Private",
+   "ward_name": "Esisi",
+   "lga_name": "Warri South",
+   "state_name": "Delta",
+   "geometry": "POINT (5.759802000000036 5.534263000000067)"
+ },
+ {
+   "FIELD1": 20,
+   "name": "State School of Nursing",
+   "sub_type": "Adult Education",
+   "management": "State Government",
+   "ward_name": "Okere",
+   "lga_name": "Warri South",
+   "state_name": "Delta",
+   "geometry": "POINT (5.740119173241077 5.520348462104127)"
+ },
+ {
+   "FIELD1": 21,
+   "name": "Institute Of Continuing Education",
+   "sub_type": "Standard",
+   "management": "Public",
+   "ward_name": "Okere",
+   "lga_name": "Warri South",
+   "state_name": "Delta",
+   "geometry": "POINT (5.747221000000025 5.518687000000057)"
+ },
+ {
+   "FIELD1": 0,
+   "name": "Government Technical College",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Abak 3",
+   "lga_name": "Abak",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.792313000000036 4.976040000000069)"
+ },
+ {
+   "FIELD1": 1,
+   "name": "School Of Pyschiatry Nursing Atibe",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Urban 4",
+   "lga_name": "Eket",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.922114730076419 4.635037616266375)"
+ },
+ {
+   "FIELD1": 2,
+   "name": "Eket Vocational Technical College Effoi",
+   "sub_type": "Adult Education",
+   "management": "Private",
+   "ward_name": "Central 4",
+   "lga_name": "Eket",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.004784000000029 4.671838000000037)"
+ },
+ {
+   "FIELD1": 3,
+   "name": "Hidden Treasure Christian Acedemy Idung Akpesan",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Etebi 1",
+   "lga_name": "Esit Eket",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.104074307860262 4.658474115447599)"
+ },
+ {
+   "FIELD1": 4,
+   "name": "Union Technical College",
+   "sub_type": "Adult Education",
+   "management": "Faith Based",
+   "ward_name": "Uquo 1",
+   "lga_name": "Esit Eket",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.047111000000029 4.663128000000029)"
+ },
+ {
+   "FIELD1": 5,
+   "name": "Adult Education Centre",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "South Iman 4",
+   "lga_name": "Etinan",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.816594000000066 4.726830000000064)"
+ },
+ {
+   "FIELD1": 6,
+   "name": "Ika Community Vocational Institute",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Odoro 2",
+   "lga_name": "Ika",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.469303000000025 4.972199000000046)"
+ },
+ {
+   "FIELD1": 7,
+   "name": "Life Leadership University Ikot Antia",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Achan 3",
+   "lga_name": "Ika",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.587678423307863 5.032712731168123)"
+ },
+ {
+   "FIELD1": 8,
+   "name": "Ukpum Ete Secondary Technical School Ete",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ukpon Ete 2",
+   "lga_name": "Ikot Abasi",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.657271000000037 4.581800000000044)"
+ },
+ {
+   "FIELD1": 9,
+   "name": "Mid Town Secondary Community School",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ikot Ekpene Urban",
+   "lga_name": "Ikot Ekpene",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.723162000000059 5.17936700000007)"
+ },
+ {
+   "FIELD1": 10,
+   "name": "Mbo Vocational and Craft Center Enwang",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Enwang 1",
+   "lga_name": "Mbo",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.256204000000025 4.66161500000004)"
+ },
+ {
+   "FIELD1": 11,
+   "name": "Akwa Ibom State University Ikot Akpaden",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ikpa Ibom 3",
+   "lga_name": "Mkpat Enin",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.763546151746724 4.621507846069868)"
+ },
+ {
+   "FIELD1": 12,
+   "name": "Social Dev Edu info Youth and Sport",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Mbiaso 1",
+   "lga_name": "Nsit Ibom",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.889293000000066 4.857471000000032)"
+ },
+ {
+   "FIELD1": 13,
+   "name": "Norman Cummings Nursing Ikot Akan",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Itreto",
+   "lga_name": "Nsit Ubium",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.903439999999999 4.77108)"
+ },
+ {
+   "FIELD1": 14,
+   "name": "Odu College",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Nung Atai Ube 1",
+   "lga_name": "Okobo",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.162445000000048 4.859862000000021)"
+ },
+ {
+   "FIELD1": 15,
+   "name": "Mainland Technical College Oron",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Uko Uyikim",
+   "lga_name": "Oron",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (8.236313000000052 4.806889000000069)"
+ },
+ {
+   "FIELD1": 16,
+   "name": "Adult Education Center Ikot Akpan Udo 1",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Abak Midim 4",
+   "lga_name": "Oruk Anam",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.584922000000063 4.682922000000076)"
+ },
+ {
+   "FIELD1": 17,
+   "name": "Akwa Ibom State University Ata Obio Akpa",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ndot Ikot Okoro 2",
+   "lga_name": "Oruk Anam",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.76175 4.9654)"
+ },
+ {
+   "FIELD1": 18,
+   "name": "Social Dev Edu info sports culture",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Ward 2",
+   "lga_name": "Ukanafun",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.538682000000051 4.857232000000067)"
+ },
+ {
+   "FIELD1": 19,
+   "name": "Government Technical College Ewet uyo",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Urban 3",
+   "lga_name": "Uyo",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.940694000000065 5.027911000000074)"
+ },
+ {
+   "FIELD1": 20,
+   "name": "University",
+   "sub_type": "Adult Education",
+   "management": "Public",
+   "ward_name": "Urban 2",
+   "lga_name": "Uyo",
+   "state_name": "Akwa Ibom",
+   "geometry": "POINT (7.924296856 5.043711662)"
+ }
+]

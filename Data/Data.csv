@@ -1,0 +1,157 @@
+,latitude,longitude,name,sub_type,management,ward_name,lga_name,state_name
+0,6.620998127249273,3.316265929896128,Arabic And Islamic Training Center,Standard,Faith Based,Awori Oniwaya,Agege,Lagos
+1,6.456789684706473,3.343597879785743,Art and Craft Centre Bale Adeyemo Street,Adult Education,Public,Aiyetoro,Ajeromi/Ifelodun,Lagos
+2,6.464956000000029,3.3405610000000365,Home Economics Centre,Adult Education,Public,Amukoko,Ajeromi/Ifelodun,Lagos
+3,6.60076,3.24253,Anchor University,Adult Education,Private,Ayobo,Alimosho,Lagos
+4,6.615938000000028,3.2968000000000757,Alimosho Resource Centre,Adult Education,Public,Oki,Alimosho,Lagos
+5,6.47307,3.2928,Tensrings Music Institute Festac Town,Standard,Private,Ifelodun,Amuwo Odofin,Lagos
+6,6.44477,2.94004,City College Of Technology And Management,Standard,Private,Ajara Vetho,Badagry,Lagos
+7,6.44326,2.94113,Steduron College Of Health Technology,Standard,Private,Ajara Vetho,Badagry,Lagos
+8,6.44514,2.93513,Ivie Technical And Technical College,Standard,Private,Ajara Vetho,Badagry,Lagos
+9,6.48327,3.04682,The Certified Institute Of Shipping Of Nigeria,Standard,Private,Araromi-Ale,Badagry,Lagos
+10,6.41144,2.90494,Lasu Foundation Badagry,Standard,Public,Awhanjigoh,Badagry,Lagos
+11,6.585401178114787,3.999895901409186,Lagos State University Epe,Adult Education,Public,Mayunre-Oriba,Epe,Lagos
+12,6.661980659390698,3.985807789643043,Yaba College Of Technology Epe Campus Odoragushin,Standard,Public,Odoragunsin,Epe,Lagos
+13,6.62854,3.95971,Agriculture Youth Empowerment School,Adult Education,Public,Odoragunsin,Epe,Lagos
+14,6.48791,3.57944,Genesis Centre School,Standard,Private,Addo/Okeira,Eti Osa,Lagos
+15,6.4602,3.55608,Moder Montessori International London,Standard,Private,Ajah,Eti Osa,Lagos
+16,6.47419,3.60272,Lagos Business School Pan Atlantic University,Adult Education,Private,Sangotedo,Eti Osa,Lagos
+17,6.42237,3.41101,Nigerian Institute For Oceanography And Marine Research,Standard,Public,Tarkwa Bay,Eti Osa,Lagos
+18,6.434,3.40899,National Open University,Adult Education,Public,Victoria Island,Eti Osa,Lagos
+19,6.43958,3.90907,Orimedu Skill Acquisition Center,Standard,Public,Orimedu 1,Ibeju Lekki,Lagos
+20,6.47893,3.85104,Pan Atlantic University,Adult Education,Private,Orimedu 2,Ibeju Lekki,Lagos
+21,6.65449,3.30212,Grajos Institute Of Mass Communication,Standard,Private,Abule Egba/Ilupeju,Ifako/Ijaye,Lagos
+22,6.67398,3.29653,Christ Gospel Inter College Of Theology,Standard,Faith Based,Ijaiye Gbirinmi,Ifako/Ijaye,Lagos
+23,6.67168,3.28552,Dof Institute Of Catering And Hotel Management,Standard,Private,Ijaiye Ojokoro,Ifako/Ijaye,Lagos
+24,6.631363000000022,3.3309470000000374,Keke Senior High School,Adult Education,Public,Ijaiye/Ifako,Ifako/Ijaye,Lagos
+25,6.584723938267847,3.3438363381769305,Community Vacational Central Ikeja,Adult Education,Public,G R A,Ikeja,Lagos
+26,6.58911,3.34193,Lagos State University College Of Medicine,Adult Education,Public,G R A,Ikeja,Lagos
+27,6.5728570948218215,3.3588065674008933,Business School Netherland,Standard,Private,G R A,Ikeja,Lagos
+28,6.62472,3.34318,Starland Vocational School,Standard,Private,Ogba/Oluwole,Ikeja,Lagos
+29,6.5949,3.3472,Nigeria Customs Service Training College Ikeja,Adult Education,Public Private,Orile Ikeja,Ikeja,Lagos
+30,6.56339,3.50328,Success Academy,Standard,Private,Abosan,Ikorodu,Lagos
+31,6.66788,3.64175,Caleb University,Adult Education,Public,Isiu,Ikorodu,Lagos
+32,6.6452,3.52138,Lagos State Polytechnic,Standard,Public,Itunpate/Itumaja,Ikorodu,Lagos
+33,6.59106,3.65728,Valem School,Standard,Private,Maja,Ikorodu,Lagos
+34,6.618954132840483,3.476132374888643,Surepass College,Standard,Private,Majidun,Ikorodu,Lagos
+35,6.63817,3.48054,Mimshaack School,Standard,Private,Owutu,Ikorodu,Lagos
+36,6.63121,3.48151,Katrino Nursery And Primary School,Standard,Private,Owutu,Ikorodu,Lagos
+37,6.56338,3.36694,Lagos University Anthony Campus,Adult Education,Public,Anthony,Kosofe,Lagos
+38,6.59237,3.38897,Tombey Foundational School,Standard,Private,Bamgbe/Elebiju,Kosofe,Lagos
+39,6.606389642547226,3.393564281248781,Government Technical College Ikorodu,Standard,Public,Erukan/Orishigun,Kosofe,Lagos
+40,6.61755912675243,3.3725239365324153,Lagos Cambridge School,Standard,Private,Shangisha/Magodo,Kosofe,Lagos
+41,6.46195,3.20403,Lagos State University,Adult Education,Public,Igbo-Elerin,Ojo,Lagos
+42,6.49198,3.12338,Lagos University Of Medicals And Health Sciences,Adult Education,Public Private,Ijanikin,Ojo,Lagos
+43,6.46331,3.15799,Harmony Study Center,Standard,Private,Ilogbo- Elegba,Ojo,Lagos
+44,6.49391,3.14513,National Postgraduate Medical College,Standard,Public,Oto-Awori,Ojo,Lagos
+45,6.499024364082248,3.114631167766809,Adeniran Ogunsanya College Of Education Lagos Badagry Express,Standard,Public,Oto-Awori,Ojo,Lagos
+46,6.537251788170151,3.295070291579333,Ronik Polytechnic,Standard,Private,Ailegun,Oshodi/Isolo,Lagos
+47,6.53055105120966,3.3340045978846793,Lagos State Polytechnic,Standard,Public,Ilasamaja,Oshodi/Isolo,Lagos
+48,6.51282,3.31899,Lagos State University,Adult Education,Public,Okota,Oshodi/Isolo,Lagos
+49,6.50130450898627,3.3553116980099658,Grace Polytechnic,Standard,Private,Shitta Bank Olemoh,Surulere,Lagos
+50,6.5237735773453185,3.3858289798200722,Federal Technical School Akoka,Standard,Public,Abule Oja,Lagos Mainland,Lagos
+51,6.521907148206652,3.3849871754811325,Federal College Of Education Akoka,Standard,Public,Abule Oja,Lagos Mainland,Lagos
+52,6.517367301951594,3.3852668235872887,University Of Lagos,Adult Education,Public,Abule Oja,Lagos Mainland,Lagos
+53,6.523832448952197,3.3871254784068268,St Augustine College Of Education,Standard,Faith Based,Abule Oja,Lagos Mainland,Lagos
+54,6.50927,3.37256,Lagos State College Of Health Technology Yaba,Standard,Public,Harvey,Lagos Mainland,Lagos
+55,6.510811314636629,3.3752807903574014,Building Craft Training School,Standard,Public,Harvey,Lagos Mainland,Lagos
+56,6.51438024621691,3.376321488027764,The London Acedemy,Adult Education,Public,Harvey,Lagos Mainland,Lagos
+57,6.518023329414292,3.36966818700004,Yaba College Of Technology,Standard,Public,Harvey,Lagos Mainland,Lagos
+58,6.50597737798013,3.383802634230786,Trinity University,Adult Education,Private,Onike/Oyadiran,Lagos Mainland,Lagos
+0,10.642828351000048,7.475042939000048,Madarasatul Zaharatul Islam,Adult Education,Private,Rigachikun,Igabi,Kaduna
+1,10.61210612235705,7.467157991444388,National Open University,Tertiary,,Rigachikun,Igabi,Kaduna
+2,9.45058107400007,8.026977181000063,Government Science Secondary School Ngarshang,Adult Education,Public,Fada,Jaba,Kaduna
+3,9.479737383138547,8.395130840984923,College Of Education State,Tertiary,,Gidan Waya,Jema'A,Kaduna
+4,9.572597242974393,8.289069766625039,Kaduna State University Kafanchan Campus,Tertiary,,Kaninkon,Jema'A,Kaduna
+5,9.597656914996863,8.321160840984923,Kaduna State College Of Education,Tertiary,,Maigizo,Jema'A,Kaduna
+6,10.50628976662504,7.431792944143102,Kaduna State University School Of Basic Studies,Tertiary,,Dadi Riba,Kaduna North,Kaduna
+7,10.520862289579801,7.442731448594879,Laduna Poly Cabs,Tertiary,,Unguwar Rimi,Kaduna North,Kaduna
+8,10.491132336533143,7.423612710768141,Kaduna Polytechnic c e s,Tertiary,,Barnawa,Kaduna South,Kaduna
+9,10.503584151000041,7.401453853000021,Business Apprentship Trainning Center,Adult Education,Public,Tudun Wada South,Kaduna South,Kaduna
+10,10.522701635712378,7.416658458194314,Kaduna Polytechnic,Tertiary,,Unguwan Sanusi,Kaduna South,Kaduna
+11,10.336670980000065,7.709547560000033,Batc Mararaban Kajuru,Adult Education,Public,Kufana,Kajuru,Kaduna
+12,11.123517477045239,7.713347851280235,Oracle University,Tertiary,,Hanwa,Sabon Gari,Kaduna
+13,11.154513131260599,7.6573973382728475,Ahmadu Bello University Zaria,Tertiary,,Jama A,Sabon Gari,Kaduna
+14,11.104828001000044,7.738921730000072,Tiny Tots Secondary School Jushi,Adult Education,Private,Jushi,Sabon Gari,Kaduna
+15,10.972552300000075,8.065364957000043,Government Tech Coll Soba,Adult Education,Public,Soba,Soba,Kaduna
+16,11.082510514399148,7.731239391694163,Federal College Of Education,Tertiary,Public,Gyellesu,Zaria,Kaduna
+0,7.240205,3.061578333,College Of Agricultural Sciences Olabisi Onabanjo University,Adult Education,Public,Imala,Abeokuta North,Ogun
+1,7.163056667,3.353321667,Dot Institute Of Technology Wasinmi Ake,Adult Education,Private,Ake 1,Abeokuta South,Ogun
+2,7.146209747259878,3.3614354130615904,School Of Nursing,Adult Education,Public,Oke Ijeun,Abeokuta South,Ogun
+3,6.682355,3.168058333,Convenant University,Adult Education,Private,Iju,Ado Odo/Ota,Ogun
+4,6.59655,3.07565,Crawford University,Adult Education,Public,Ketu,Ado Odo/Ota,Ogun
+5,6.8968583,2.8680517,Institute For Vocational And Innovative Enterprise,Adult Education,Private,Ebute,Yewa North,Ogun
+6,6.885793333,3.003481667,National Open Unversity,Adult Education,Public,Ilaro 1,Yewa South,Ogun
+7,6.887418333,3.004815,Igbajo Polytechnic Ilaro Campus,Adult Education,Public,Ilaro 1,Yewa South,Ogun
+8,6.88611,2.9896583,Federal Polytechnic,Adult Education,Public,Ilaro 1,Yewa South,Ogun
+9,6.683458333,3.004741667,Ekiti State University Consult,Adult Education,Public,Owode 2,Yewa South,Ogun
+10,6.850261667,3.192225,Royal Health Institute,Adult Education,Private,Papa,Ewekoro,Ogun
+11,6.796083333,3.20283,Ifo College Of Management,Adult Education,Public,Ifo 1,Ifo,Ogun
+12,6.8019333,3.9534234,Ogun State College Of Health Technology,Adult Education,Public,Imushin 1,Ijebu East,Ogun
+13,6.928425,3.879615,Olabisi Onabanjo University Ago Iwoye,Adult Education,Public,Ako Gelete,Ijebu North,Ogun
+14,7.0003271,4.0092712,Abraham Adesanya Polytechnic,Adult Education,Public,Atikori,Ijebu North,Ogun
+15,6.96081,3.93101,National Open University Awa Campus,Adult Education,Public,Oru/Awa,Ijebu North,Ogun
+16,6.826631667,3.968218333,Satos Ornamental School,Adult Education,Faith Based NGO Funded,Isoku/Ososa,Ijebu Ode,Ogun
+17,6.804375,3.939295,Alphagate College Of Health And Technology,Adult Education,Private,Odo Esa,Ijebu Ode,Ogun
+18,6.8111932,3.9245108,Ogun State School Of Nursing,Adult Education,Public,Odo Esa,Ijebu Ode,Ogun
+19,6.923043333,3.67261,Polaris Maritime Academy,Adult Education,Private,Ilisan 1,Ikenne,Ogun
+20,6.91143,3.675806667,Social Development Institute,Adult Education,Public,Ilisan 1,Ikenne,Ogun
+21,6.907363333,3.683431667,Babcock University School Of Law And Security Studies,Adult Education,Faith Based,Ilisan 1,Ikenne,Ogun
+22,6.88871,3.71943,Babcock University,Adult Education,Public,Ilisan 2,Ikenne,Ogun
+23,6.897721667,3.667446667,Wecare College Of Health Technology,Adult Education,Private,Iperu 1,Ikenne,Ogun
+24,7.440635,2.840543333,College Of Education Study Center,Adult Education,Public,Idofa,Imeko Afon,Ogun
+25,6.544576667,2.827703333,Ogun State Polytechnic,Adult Education,Public,Ipokia 1,Ipokia,Ogun
+26,6.921314368000026,3.5621123470000384,The Football College Orile Imo,Adult Education,Private,Ajura,Obafemi Owode,Ogun
+27,7.140845,3.396683333,Chrisland University,Adult Education,Private,Egbeda,Obafemi Owode,Ogun
+28,7.226705,3.450913333,Federal University Of Agriculture Abeokuta,Adult Education,Public,Alabata,Odeda,Ogun
+29,7.1954655,3.4615874,Edexcel College Of Health Sciences And Technology,Adult Education,Private,Osiele,Odeda,Ogun
+30,6.7043577,3.8644081,Tai Solarin University Of Education Omu Ijebu,Adult Education,Public,Igbile,Odogbolu,Ogun
+31,6.782813333,3.923946667,Tai Solarin University Of Education Ijagun,Adult Education,Public,Ogbo,Odogbolu,Ogun
+32,6.538553333,4.247216667,Gateway Industrial Petro Gas Institute,Adult Education,Public,Iwopin 1,Ogun Waterside,Ogun
+33,6.540323333,4.254868333,Gateway Industrial And Petrol Gas Institute,Adult Education,Public,Iwopin 2,Ogun Waterside,Ogun
+34,6.987255,3.670993333,Gateway Polytechnic,Adult Education,Public,Isara 2,Remo North,Ogun
+35,6.81278,3.45885,Redeemer's University,Adult Education,Public,Isote,Shagamu,Ogun
+36,6.8146888,3.4602102,Redeemers University Mini Campus,Adult Education,Private Faith Based,Isote,Shagamu,Ogun
+0,6.305565000000058,6.500436000000036,Issele Uku Technical College Issele Uku,Adult Education,Public,Issele-Uku 1,Aniocha North,Delta
+1,6.383765000000039,6.564490000000035,Matmo Technical Vocational College,Standard,Private,Onicha-Olona,Aniocha North,Delta
+2,6.1641,6.57215,Admiralty University,Tertiary,Public,Otulu,Aniocha South,Delta
+3,6.22194,6.56943,Delta State Polytechnic Ogwashi Uku,Tertiary,Public,Otulu,Aniocha South,Delta
+4,5.170780000000036,5.93012600000003,Azobemors International Educational Centre,Aggregate,Private,Bomadi,Bomadi,Delta
+5,5.7441240006338,5.991812462820403,State School of Nursing,Adult Education,State Government,Ovu,Ethiope East,Delta
+6,5.951058000000046,5.68967200000003,Best Brain University Academy,Standard,Public,Ogharefe 1,Ethiope West,Delta
+7,5.94421,5.67096,Western Delta University Ogharefe,Adult Education,Public,Ogharefe 1,Ethiope West,Delta
+8,6.255114248806386,6.180496991477841,College of Education,Adult Education,State Government,Emuhu,Ika South,Delta
+9,6.256647837642676,6.183958357117053,State School of Nursing,Adult Education,State Government,Emuhu,Ika South,Delta
+10,6.25637,6.18459,School Of Nursing Alibuba,Adult Education,Public,Emuhu,Ika South,Delta
+11,5.53875800000003,6.226370000000031,Institue Of Continuos Education Ozoro,Standard,Private,Ozoro 2,Isoko North,Delta
+12,5.543933000000038,6.238046000000054,Women Education Centre Ozoro,Adult Education,Public,Ozoro 3,Isoko North,Delta
+13,5.545473000000072,6.2293450000000234,Golden Edu Center,Standard,Public,Ozoro 3,Isoko North,Delta
+14,5.5439060000000495,6.238056000000029,Isoko North Skill Acquisation Center Ozoro,Adult Education,Private,Ozoro 3,Isoko North,Delta
+15,5.684582000000034,6.411929000000043,Otagba Ogbe Technical College Kwale,Standard,Public,Ogume 7,Ndokwa West,Delta
+16,6.20085,6.68997,University Of Asaba Asaba,Adult Education,Public,Umuodafe,Oshimili North,Delta
+17,5.57447,5.79591,Federal University Of Petroleum Resources Effurun,Adult Education,Public,Alaka,Uvwie,Delta
+18,5.57186,5.84104,The Federal University Of Petroleum Reources Main Campus Ugbomro,Adult Education,Public,Ugbomro,Uvwie,Delta
+19,5.534263000000067,5.759802000000036,Science Prepartory Centre,Standard,Private,Esisi,Warri South,Delta
+20,5.520348462104127,5.7401191732410775,State School of Nursing,Adult Education,State Government,Okere,Warri South,Delta
+21,5.518687000000057,5.747221000000025,Institute Of Continuing Education,Standard,Public,Okere,Warri South,Delta
+0,4.976040000000069,7.792313000000036,Government Technical College,Adult Education,Public,Abak 3,Abak,Akwa Ibom
+1,4.635037616266375,7.9221147300764185,School Of Pyschiatry Nursing Atibe,Adult Education,Public,Urban 4,Eket,Akwa Ibom
+2,4.671838000000037,8.00478400000003,Eket Vocational Technical College Effoi,Adult Education,Private,Central 4,Eket,Akwa Ibom
+3,4.658474115447599,8.104074307860262,Hidden Treasure Christian Acedemy Idung Akpesan,Adult Education,Public,Etebi 1,Esit Eket,Akwa Ibom
+4,4.663128000000029,8.04711100000003,Union Technical College,Adult Education,Faith Based,Uquo 1,Esit Eket,Akwa Ibom
+5,4.726830000000064,7.816594000000066,Adult Education Centre,Adult Education,Public,South Iman 4,Etinan,Akwa Ibom
+6,4.972199000000046,7.469303000000025,Ika Community Vocational Institute,Adult Education,Public,Odoro 2,Ika,Akwa Ibom
+7,5.032712731168123,7.587678423307863,Life Leadership University Ikot Antia,Adult Education,Public,Achan 3,Ika,Akwa Ibom
+8,4.581800000000044,7.657271000000037,Ukpum Ete Secondary Technical School Ete,Adult Education,Public,Ukpon Ete 2,Ikot Abasi,Akwa Ibom
+9,5.17936700000007,7.723162000000059,Mid Town Secondary Community School,Adult Education,Public,Ikot Ekpene Urban,Ikot Ekpene,Akwa Ibom
+10,4.66161500000004,8.256204000000025,Mbo Vocational and Craft Center Enwang,Adult Education,Public,Enwang 1,Mbo,Akwa Ibom
+11,4.621507846069868,7.763546151746724,Akwa Ibom State University Ikot Akpaden,Adult Education,Public,Ikpa Ibom 3,Mkpat Enin,Akwa Ibom
+12,4.857471000000032,7.889293000000066,Social Dev Edu info Youth and Sport,Adult Education,Public,Mbiaso 1,Nsit Ibom,Akwa Ibom
+13,4.77108,7.903439999999999,Norman Cummings Nursing Ikot Akan,Adult Education,Public,Itreto,Nsit Ubium,Akwa Ibom
+14,4.859862000000021,8.162445000000048,Odu College,Adult Education,Public,Nung Atai Ube 1,Okobo,Akwa Ibom
+15,4.806889000000069,8.236313000000052,Mainland Technical College Oron,Adult Education,Public,Uko Uyikim,Oron,Akwa Ibom
+16,4.682922000000076,7.584922000000063,Adult Education Center Ikot Akpan Udo 1,Adult Education,Public,Abak Midim 4,Oruk Anam,Akwa Ibom
+17,4.9654,7.76175,Akwa Ibom State University Ata Obio Akpa,Adult Education,Public,Ndot Ikot Okoro 2,Oruk Anam,Akwa Ibom
+18,4.857232000000067,7.538682000000051,Social Dev Edu info sports culture,Adult Education,Public,Ward 2,Ukanafun,Akwa Ibom
+19,5.027911000000074,7.9406940000000645,Government Technical College Ewet uyo,Adult Education,Public,Urban 3,Uyo,Akwa Ibom
+20,5.043711662,7.924296856,University,Adult Education,Public,Urban 2,Uyo,Akwa Ibom
