@@ -13,3 +13,10 @@ to our maps.
 <img src="Data/image1.png" alt="Drawing" />
 
 Geospatial Information System (GIS) is a conceptualized framework that provides the ability to capture, store, manipulate, analyze, manage, and present all types of geographical data spatial and Geographic data. Python as a programming language has a lot of libraries which are used for different types of geospatial analysis and each of it has different strengths and limitations. In this talk we will be looking at building interesting and interactive geospatial visualisations using IpyLeaflet, how we could use Ipyleaflet widget to design our maps, creating single and multiple markers on map and exporting the interactive visualization in html.
+
+
+<img src="Data/shot1.png" alt="Drawing" />
+<img src="Data/shot2.png" alt="Drawing" />
+<img src="Data/shot3.png" alt="Drawing" />
+<img src="Data/shot4.png" alt="Drawing" />
+<img src="Data/shot5.png" alt="Drawing" />
